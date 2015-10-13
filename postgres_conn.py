@@ -1,3 +1,4 @@
+# This is a connector for postgres to psycopg2
 import psycopg2, json, sys
 
 
